@@ -6,4 +6,5 @@ The benefits of this system are as follows:
 2.	More time to browse the menu
 3.	More customer control over orders
 4.	Easier to place larger orders
+
 Using the canteen management system as our topic for the project we drew some required UML diagrams as the Use case, Class, Sequence, Communication, State chart, Activity, Package, Component, and Deployment diagram.       
